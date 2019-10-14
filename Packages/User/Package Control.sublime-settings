@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlight",
+		"CTags",
+		"DocBlockr",
+		"HTML5",
+		"Package Control",
+		"Packed",
+		"SideBarEnhancements",
+		"Sublime wxapp",
+		"SublimeLinter",
+		"World of Warcraft XML file Syntax"
+	]
+}
