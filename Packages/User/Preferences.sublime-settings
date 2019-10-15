@@ -20,7 +20,12 @@
 		{
 			"characters": "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.<",
 			"selector": "text.plain"
-		}
+		},
+		{
+			"characters": "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.<",
+			"selector": ["source.js","meta.function-call.js","meta.group.js","meta.object-literal.js","meta.function.js","meta.block.js"]
+		},
+
 	],
 	"font_size": 13,
 	"ignored_packages":
