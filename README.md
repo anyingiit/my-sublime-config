@@ -10,3 +10,9 @@ $ git clone https://github.com/anyingiit/my-sublime-config "%AppData%\Sublime Te
 ```shell
 $ git clone https://github.com/anyingiit/my-sublime-config.git "C:\Users\你的当前用户名\AppData\Roaming\Sublime Text 3"
 ```
+### MacOS
+```shell
+cd ~
+cd /Library/Application\ Support/
+sudo git clone https://github.com/anyingiit/my-sublime-config "Sublime Text 3"
+```
